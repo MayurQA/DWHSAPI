@@ -1,1 +1,1 @@
-# DWHS_API_Automation
+# DWHS_API_Automation Script (Rest assured automation code)
